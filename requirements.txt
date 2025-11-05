@@ -1,0 +1,13 @@
+streamlit
+langchain
+beautifulsoup4
+requests
+python-dotenv
+openai
+tiktoken
+faiss-cpu
+numpy
+pandas
+chromadb
+sentence-transformers
+regex
